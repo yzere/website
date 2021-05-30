@@ -11,7 +11,7 @@ a{
   transition: 0.5s;
 }
 section a, header a:hover {
-    color: #555;
+    color: aquamarine;
   }
   
 section a, header a:active {
