@@ -1,0 +1,41 @@
+/* CSS HEX */
+* {
+    --baby-powder: #fffffaff;
+    --baby-powder-hover: aquamarine;
+    --midnight-green-eagle-green: #0d5c63ff;
+    --cadet-blue: #44a1a0ff;
+    --middle-blue: #78cdd7ff;
+    --teal: #247b7bff;
+    --tale-dark: #212121;
+    }
+
+.cert-intro{
+    width: 100vw;
+    text-align: center;
+    align-content: center;
+    color: var(--baby-powder);
+    font-size: 2vh;
+}
+
+.cert-list{
+    
+    font-size: 6vh;
+}
+ul{
+    list-style-type:none;
+    line-height: 8vh;
+}
+.cert-intro i{
+    font-size: 6vh;
+}
+.cert-showcase{
+    width: 100vw;
+    height: 95vh;
+    text-align: center;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.cert-showcase-name{
+    font-size: 4vh;
+    margin-bottom: 5vh;
+}
