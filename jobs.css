@@ -10,3 +10,10 @@
 .jobs-offers-wrapper section{
     margin-top: 4vh;
 }
+@media only screen and (max-width: 600px) {
+
+    .jobs-intro-wrapper iframe{
+        width: 80vw;
+        height: auto;
+    }
+}

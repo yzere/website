@@ -26,4 +26,49 @@ textarea.formField{width: 300px; height: 70px}
 .status_err{color: #F00};
 #contact_form{
     margin-bottom: 5vh;
+    font-size: 1vw;
+}
+
+.floater{
+    float: left;
+}
+.img-holder img{
+    width: 50vw; margin-left: 8vw; margin-right: 3vw;
+}
+
+.about-info{
+    font-size: 0.8vw; 
+    margin-right: 4vw;
+}
+
+.mobile-wrapper{
+    font-size: 1.5vw;
+}
+@media only screen and (max-width: 600px) {
+
+.img-holder img{
+    width: 90vw;
+    margin-left: 5vw; 
+    margin-right: 5vw;
+}  
+
+.img-holder p{
+    float: none;
+}
+
+.about-info{
+    font-size: 4vw; 
+    margin-right: 4vw;
+    margin-left: 4vw;
+}
+
+.mobile-wrapper{
+    font-size: 3.5vw;
+}
+
+#contact_form{
+    margin-bottom: 5vh;
+    font-size: 4vw;
+}
+
 }

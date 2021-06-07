@@ -185,3 +185,13 @@ footer{
   font-size: 2vh;
   text-align: center;
 }
+
+@media only screen and (max-width: 600px) {
+
+.platform img{
+  width: 20vw;
+}
+
+
+
+}
