@@ -1,0 +1,12 @@
+.jobs-intro-wrapper{
+    text-align: center;
+}
+
+.jobs-offers-wrapper{
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.jobs-offers-wrapper section{
+    margin-top: 4vh;
+}

@@ -1,0 +1,34 @@
+
+/* CSS HEX */
+* {
+    --baby-powder: #fffffaff;
+    --baby-powder-hover: aquamarine;
+    --midnight-green-eagle-green: #0d5c63ff;
+    --cadet-blue: #44a1a0ff;
+    --middle-blue: #78cdd7ff;
+    --teal: #247b7bff;
+    --tale-dark: #212121;
+    }
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70vw;
+    margin-top: 4vh;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+    color:var(--tale-dark)  ;
+  }
+
+.resources-wrapper{
+    text-align: center;
+}
