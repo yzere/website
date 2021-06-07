@@ -10,7 +10,8 @@
     }
 
 .cert-intro{
-    width: 100vw;
+    width: 95vw;
+    margin: auto;
     text-align: center;
     align-content: center;
     color: var(--baby-powder);
@@ -29,9 +30,11 @@ ul{
     font-size: 6vh;
 }
 .cert-showcase{
-    width: 100vw;
+    width: 90vw;
     height: 95vh;
     text-align: center;
+    margin-left: 5vw;
+    margin-right: 5vw;
     margin-top: 5vh;
     margin-bottom: 5vh;
 }
